@@ -102,4 +102,4 @@ The main landing page featuring:
 
 ## License
 
-MIT
+© 2026 RINZE AUTOS LIMITED. All rights reserved.
